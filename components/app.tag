@@ -20,11 +20,6 @@
         <project-list projects={opts.projects.items}/>
       </div>
     </div>
-    <div class='row'>
-      <div class='col-xs'>
-        <search-tags tags={opts.projects.terms}/>
-      </div>
-    </div>
   </div>
 
   <style>
