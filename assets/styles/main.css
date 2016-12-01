@@ -1,0 +1,30 @@
+body {
+  font-family: 'Crimson Text', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'News Cycle', sans-serif;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+h1 .tag,
+h2 .tag,
+h3 .tag,
+h4 .tag,
+h5 .tag,
+h6 .tag {
+  text-transform: none;
+}
+
+.tag {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  margin-right: 0.5em;
+}
+
+.brand {
+  font-family: 'News Cycle', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+}
